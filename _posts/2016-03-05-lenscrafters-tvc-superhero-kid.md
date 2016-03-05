@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/125138339'
+inLanguage: null
+starred: false
+keywords: []
+description: A spec commercial created for Lenscrafters.
+datePublished: '2016-03-05T21:53:07.297Z'
+dateModified: '2016-03-05T21:53:00.987Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: A spec commercial created for Lenscrafters.
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/125138339'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/125138339'
 title: Lenscrafters TVC Superhero Kid
-datePublished: '2016-03-05T17:16:04.789Z'
-dateModified: '2016-03-05T17:06:53.885Z'
 sourcePath: _posts/2016-03-05-lenscrafters-tvc-superhero-kid.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

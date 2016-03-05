@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
+keywords:
+  - time-lapse
+  - surfing
+  - tailor
+  - amsterdam
+  - lots
+  - feed
+  - corporates
+  - tags
+  - commercial
+  - feature
+description: "I'm a director living and working in Amsterdam. Commercial, corporates, a feature film and lots and lots of shorts"
+datePublished: '2016-03-05T17:17:52.190Z'
+dateModified: '2016-03-05T17:17:35.162Z'
 author:
   - avatar:
       src: 'https://i.vimeocdn.com/portrait/1378969_640x640.jpg'
@@ -18,24 +37,6 @@ author:
           - 136
           - 133
 related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords:
-  - time-lapse
-  - surfing
-  - tailor
-  - amsterdam
-  - lots
-  - feed
-  - corporates
-  - tags
-  - commercial
-  - feature
-description: "I'm a director living and working in Amsterdam. Commercial, corporates, a feature film and lots and lots of shorts"
-inLanguage: en
 app_links:
   - url: 'vimeo://app.vimeo.com/users/4893504'
     type: ios
@@ -62,15 +63,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/kristjanknigge'
 title: Kristjan Knigge
-datePublished: '2016-03-05T15:42:21.269Z'
-dateModified: '2016-03-05T14:00:49.791Z'
 sourcePath: _posts/2016-03-05-kristjan-knigge.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: kristjan-knigge/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

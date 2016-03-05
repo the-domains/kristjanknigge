@@ -16,8 +16,8 @@ keywords:
   - commercial
   - feature
 description: "I'm a director living and working in Amsterdam. Commercial, corporates, a feature film and lots and lots of shorts"
-datePublished: '2016-03-05T22:16:53.239Z'
-dateModified: '2016-03-05T22:15:25.534Z'
+datePublished: '2016-03-05T22:51:20.215Z'
+dateModified: '2016-03-05T22:17:01.935Z'
 author:
   - avatar:
       src: 'https://i.vimeocdn.com/portrait/1378969_640x640.jpg'

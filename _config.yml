@@ -1,6 +1,6 @@
 name: KristjanKnigge
 favicon: null
-layout_spectrum: 0.03387108421884477
+layout_spectrum: 1
 typography_spectrum: 0.799487889977172
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9851879491470754
-  lightness: 0.48494934337213635
-  saturation: 0.5755538796074688
+    - '#f69f06'
+    - '#e95f0e'
+    - '#ffffff'
+    - '#ffff00'
+    - '#ff0000'
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.0625
   rhythmicContrast: 0.09211558196693659
 purpose: []

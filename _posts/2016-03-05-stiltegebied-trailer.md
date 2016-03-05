@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/121947084'
 title: Stiltegebied Trailer
-datePublished: '2016-03-05T01:58:02.673Z'
-dateModified: '2016-03-05T01:47:49.484Z'
+datePublished: '2016-03-05T13:55:45.977Z'
+dateModified: '2016-03-05T13:55:08.140Z'
 sourcePath: _posts/2016-03-05-stiltegebied-trailer.md
 published: true
 inFeed: true

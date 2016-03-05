@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/125137805'
+inLanguage: null
+starred: false
+keywords: []
+description: "Commercial promoting Blokker's new range of kitchenware, 24Kitchen branded cookware. Featuring Roberta Pagnier, star chef and well known 24Kitchen presenter. Agency: Crossmarks ProdCo: MacGyver Client: Blokker"
+datePublished: '2016-03-05T22:16:19.428Z'
+dateModified: '2016-03-05T17:15:36.139Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Commercial promoting Blokker's new range of kitchenware, 24Kitchen branded cookware. Featuring Roberta Pagnier, star chef and well known 24Kitchen presenter. Agency: Crossmarks ProdCo: MacGyver Client: Blokker"
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/125137805'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/125137805'
 title: 'Blokker & 24kitchen tvc'
-datePublished: '2016-03-05T17:15:27.863Z'
-dateModified: '2016-03-05T17:10:55.119Z'
 sourcePath: _posts/2016-03-05-blokker-and-24kitchen-tvc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

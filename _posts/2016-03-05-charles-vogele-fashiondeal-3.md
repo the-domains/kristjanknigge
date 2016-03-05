@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'One of a series of commercials made for Charles Vögele fashion. Fun, humanness, joy and comfort where the ket ingredients of the brief. Agency: Crossmarks ProdCo: Macgyver Client: Charles Voegele'
-datePublished: '2016-03-05T17:16:20.633Z'
-dateModified: '2016-03-05T17:16:20.100Z'
+datePublished: '2016-03-05T21:54:18.831Z'
+dateModified: '2016-03-05T21:54:18.219Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Charles Vögele FashionDeal 3
+sourcePath: _posts/2016-03-05-charles-vogele-fashiondeal-3.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-05-charles-vogele-fashiondeal-3.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 

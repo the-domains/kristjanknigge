@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/103665331'
 title: The Right Juice - Official Trailer
-datePublished: '2016-03-05T01:46:04.282Z'
-dateModified: '2016-03-05T01:45:33.414Z'
+datePublished: '2016-03-05T13:58:19.478Z'
+dateModified: '2016-03-05T13:58:01.134Z'
 sourcePath: _posts/2016-03-05-the-right-juice-official-trailer.md
 published: true
 inFeed: true

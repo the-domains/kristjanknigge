@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/141258960'
+inLanguage: null
+starred: false
+keywords: []
+description: "Logline The seemingly perfect honeymoon of two newlyweds is disrupted by the memories of another, similar holiday. Short Synopsis Newlyweds Jesper and Agnes are spending their honeymoon at the beautiful lakeside home of Jesper's uncle Harry, deep in sun-drenched Portugal."
+datePublished: '2016-03-05T02:02:26.366Z'
+dateModified: '2016-03-05T01:51:47.077Z'
 author:
   - name: Longship Films
     url: 'http://vimeo.com/longshipfilms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Feel free to like and comment! Logline The seemingly perfect honeymoon of two newlyweds is disrupted by the memories of another, similar holiday. Short Synopsis Newlyweds Jesper and Agnes are spending their honeymoon at the beautiful lakeside home of Jesper's uncle Harry, deep in sun-drenched Portugal."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/141258960'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/141258960'
 title: Second Honeymoon Trailer
-datePublished: '2016-03-05T01:47:05.591Z'
-dateModified: '2016-03-05T01:46:33.639Z'
 sourcePath: _posts/2016-03-05-second-honeymoon-trailer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

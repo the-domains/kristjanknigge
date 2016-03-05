@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Satirical character superstar photographer Rupert Prescott offers a unique insight into his artistic and creative genius. Interviewed by documentarian Kristjan Knigge on a break during the shooting of the immensely successful Colgate Max White One viral campaign.
-datePublished: '2016-03-05T21:53:15.623Z'
-dateModified: '2016-03-05T17:15:52.976Z'
+datePublished: '2016-03-05T22:15:57.503Z'
+dateModified: '2016-03-05T21:53:24.602Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'

@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/125141161'
+inLanguage: null
+starred: false
+keywords: []
+description: Satirical character superstar photographer Rupert Prescott offers a unique insight into his artistic and creative genius. Interviewed by documentarian Kristjan Knigge on a break during the shooting of the immensely successful Colgate Max White One viral campaign.
+datePublished: '2016-03-05T21:53:15.623Z'
+dateModified: '2016-03-05T17:15:52.976Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: Satirical character superstar photographer Rupert Prescott offers a unique insight into his artistic and creative genius. Interviewed by documentarian Kristjan Knigge on a break during the shooting of the immensely successful Colgate Max White One viral campaign.
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/125141161'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/125141161'
 title: Meet Rupert Prescott - Superstar Photographer
-datePublished: '2016-03-05T17:15:50.249Z'
-dateModified: '2016-03-05T17:07:07.927Z'
 sourcePath: _posts/2016-03-05-meet-rupert-prescott-superstar-photographer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

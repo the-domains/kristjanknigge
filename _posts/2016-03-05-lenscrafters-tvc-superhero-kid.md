@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A spec commercial created for Lenscrafters.
-datePublished: '2016-03-05T21:53:47.142Z'
-dateModified: '2016-03-05T21:53:16.779Z'
+datePublished: '2016-03-05T22:15:48.994Z'
+dateModified: '2016-03-05T21:53:51.461Z'
 author:
   - name: Kristjan Knigge
     url: 'http://vimeo.com/kristjanknigge'

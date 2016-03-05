@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/103665331'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This is "The Right Juice - Official Trailer" by therightjuice on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-03-05T17:16:52.088Z'
+dateModified: '2016-03-05T17:16:51.352Z'
 author:
   - name: therightjuice
     url: 'http://vimeo.com/therightjuice'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "The Right Juice - Official Trailer" by therightjuice on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/103665331'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/103665331'
 title: The Right Juice - Official Trailer
-datePublished: '2016-03-05T13:58:19.478Z'
-dateModified: '2016-03-05T13:58:01.134Z'
 sourcePath: _posts/2016-03-05-the-right-juice-official-trailer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
